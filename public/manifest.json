@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Dev Profile Saver",
+  "version": "1.0.0",
+  "description": "A Chrome extension to save LeetCode, GitHub, and LinkedIn profiles.",
+  "permissions": [
+    "storage"
+  ],
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Edit Profiles"
+  }
+}
