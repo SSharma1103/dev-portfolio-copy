@@ -16,7 +16,7 @@ Since this is a browser extension, you cannot just "run" it like a normal websit
 
 1. Clone the Repository
 
-git clone [https://github.com/YOUR_USERNAME/dev-profile-saver.git](https://github.com/YOUR_USERNAME/dev-profile-saver.git)
+git clone [https://github.com/SSharma1103/dev-profile-saver.git](https://github.com/YOUR_USERNAME/dev-profile-saver.git)
 cd dev-profile-saver
 
 
